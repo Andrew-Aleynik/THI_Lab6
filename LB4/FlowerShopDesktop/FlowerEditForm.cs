@@ -21,7 +21,7 @@ namespace FlowerShopDesktop
 
         private void editButton_Click(object sender, EventArgs e)
         {
-            //flower.setPrice(int.Parse(flowerPriceTextBox.Text));
+            flower.setPrice(int.Parse(flowerPriceTextBox.Text));
             DialogResult = DialogResult.OK;
         }
 
