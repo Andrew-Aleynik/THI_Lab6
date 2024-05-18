@@ -1,0 +1,14 @@
+C:\Users\Андрей\Desktop\ТПУ\2_2\ТХИ\LB4\obj\Debug\net6.0\LB4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\ТПУ\2_2\ТХИ\LB4\obj\Debug\net6.0\LB4.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\ТПУ\2_2\ТХИ\LB4\obj\Debug\net6.0\LB4.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\ТПУ\2_2\ТХИ\LB4\obj\Debug\net6.0\LB4.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\ТПУ\2_2\ТХИ\LB4\bin\Debug\net6.0\LB4.exe
+C:\Users\Андрей\Desktop\ТПУ\2_2\ТХИ\LB4\bin\Debug\net6.0\LB4.deps.json
+C:\Users\Андрей\Desktop\ТПУ\2_2\ТХИ\LB4\bin\Debug\net6.0\LB4.runtimeconfig.json
+C:\Users\Андрей\Desktop\ТПУ\2_2\ТХИ\LB4\bin\Debug\net6.0\LB4.dll
+C:\Users\Андрей\Desktop\ТПУ\2_2\ТХИ\LB4\bin\Debug\net6.0\LB4.pdb
+C:\Users\Андрей\Desktop\ТПУ\2_2\ТХИ\LB4\obj\Debug\net6.0\LB4.dll
+C:\Users\Андрей\Desktop\ТПУ\2_2\ТХИ\LB4\obj\Debug\net6.0\refint\LB4.dll
+C:\Users\Андрей\Desktop\ТПУ\2_2\ТХИ\LB4\obj\Debug\net6.0\LB4.pdb
+C:\Users\Андрей\Desktop\ТПУ\2_2\ТХИ\LB4\obj\Debug\net6.0\LB4.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\ТПУ\2_2\ТХИ\LB4\obj\Debug\net6.0\ref\LB4.dll
